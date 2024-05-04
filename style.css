@@ -1,0 +1,38 @@
+.heading{
+    padding: 15px;
+}
+
+a{
+    text-decoration: none;
+    margin: 15px;
+    border-radius: 15px;
+    font-weight: 480;
+}
+
+a:link{
+    color:saddlebrown;
+}
+
+a:visited{
+    color: slateblue;
+}
+
+a:hover{
+    color:firebrick
+}
+
+a:active{
+    color:royalblue;
+}
+
+a:link, a:visited {
+    background-color:aliceblue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:burlywood;
+  }
